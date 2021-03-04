@@ -95,10 +95,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Binny"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "三人行 必有我師"
+  location         : "Home"
   email            :
   links:
     - label: "Email"
