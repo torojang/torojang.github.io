@@ -16,7 +16,7 @@ remote_theme : mmistakes/minimal-mistakes
 minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR" # "en-US"
 title                    : "오십견이 온 것보니 반백년 살았나보군"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
