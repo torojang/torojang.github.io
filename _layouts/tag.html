@@ -1,15 +1,15 @@
 ---
 layout: page
-# The Category layout
+# The layout for Tag page
 ---
 
-<div id="page-category">
+
+<div id="page-tag">
   <h1 class="pl-lg-2">
-    <i class="far fa-folder-open fa-fw text-muted"></i>
+    <i class="fa fa-tag fa-fw text-muted"></i>
     {{ page.title }}
     <span class="lead text-muted pl-2">{{ page.posts | size }}</span>
   </h1>
-
   <ul class="post-content pl-0">
     {% assign post_long_df = site.data.date_format.post.long | default: '%b %e, %Y' %}
 
