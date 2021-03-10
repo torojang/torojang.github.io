@@ -1,4 +1,5 @@
 ---
 layout: category
-title: Github
+title: Docker
+author_profile: true
 ---
