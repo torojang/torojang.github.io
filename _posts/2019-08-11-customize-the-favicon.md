@@ -1,10 +1,6 @@
 ---
-title: Customize the Favicon
-author: Cotes Chung
-date: 2019-08-11 00:34:00 +0800
+title: "Welcome to Binny's Blog!"
+date: 2021-01-03 18:32:00 -0400
 categories:
   - Docker
-  - Kubernetes
-tags: [favicon]
-toc: false
 ---
