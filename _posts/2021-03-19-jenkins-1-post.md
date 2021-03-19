@@ -1,6 +1,6 @@
 ---
 title: "젠킨스(Jenkins) 란? "
-date: 2021-03-19 16:35:14 +0900
+date: 2021-03-19 16:35:14 +0000
 categories:
   - Jenkins
 ---
